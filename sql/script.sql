@@ -27,6 +27,4 @@ values
     ("Romulo Renan", "11 98907-5551", now(), now()),
     ("Cristopher Noronha", "34 9150-4482", now(), now()),
     ("Thiago Maciel", "311 980784613", now(), now()),
-    ("Marcelo", "85 91956217", now(), now())
-
-select * from bdsorteio.participants p;
+    ("Marcelo", "85 91956217", now(), now());
