@@ -7,3 +7,6 @@
 3º Rode o comando: node server.js
  
 4º Acesse a API na porta porta 8080 ou altere o arquivo server.js
+
+Para sortear um participante aleatório acesse a rota
+http://localhost:8080/api/participants/sort

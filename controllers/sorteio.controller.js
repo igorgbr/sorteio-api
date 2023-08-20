@@ -5,7 +5,7 @@ const Op = db.Sequelize.Op;
 // Sorteia um participante
 exports.sortOne = async (req, res) => {
 
-  const randomNumber = Math.floor(Math.random() * 24)
+  const randomNumber = Math.floor(Math.random() * 29)
 
   const winner = await Sort.findByPk(randomNumber)
 
